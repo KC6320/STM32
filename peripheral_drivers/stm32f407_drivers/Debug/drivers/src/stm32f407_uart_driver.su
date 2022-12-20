@@ -1,0 +1,14 @@
+../drivers/src/stm32f407_uart_driver.c:12:6:USART_init	24	static
+../drivers/src/stm32f407_uart_driver.c:96:6:USART_deinit	16	static
+../drivers/src/stm32f407_uart_driver.c:125:6:USART_clk_ctrl	16	static
+../drivers/src/stm32f407_uart_driver.c:185:6:USART_set_baud_rate	40	static
+../drivers/src/stm32f407_uart_driver.c:241:6:USART_tx	32	static
+../drivers/src/stm32f407_uart_driver.c:282:6:USART_rx	32	static
+../drivers/src/stm32f407_uart_driver.c:331:9:USART_tx_interrupt	32	static
+../drivers/src/stm32f407_uart_driver.c:350:9:USART_rx_interrupt	32	static
+../drivers/src/stm32f407_uart_driver.c:373:6:USART_irq_interrupt_config	16	static
+../drivers/src/stm32f407_uart_driver.c:412:6:USART_irq_priority_config	24	static
+../drivers/src/stm32f407_uart_driver.c:419:6:USART_irq_handling	32	static
+../drivers/src/stm32f407_uart_driver.c:614:9:get_USART_status	16	static
+../drivers/src/stm32f407_uart_driver.c:622:6:USART_peripheral_control	16	static
+../drivers/src/stm32f407_uart_driver.c:636:6:USART_application_callback	16	static
